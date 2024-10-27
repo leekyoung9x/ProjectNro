@@ -1,0 +1,60 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+**/.utmp/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========================= #
+# Unity Cloud Build generated #
+# ========================= #
+/[Uu]ser[Bb]uilds/
+
+# ============ #
+# Other Files #
+# ============ #
+*.apk
+*.aab
+*.unitypackage
+
+# =============== #
+# JetBrains Rider #
+# =============== #
+.idea/
+*.sln.iml
